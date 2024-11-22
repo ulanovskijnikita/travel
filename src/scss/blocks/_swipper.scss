@@ -1,0 +1,10 @@
+.swiper-scrollbar {
+  height: 2px !important;
+  border-radius: 0 !important;
+  background-color: rgba($color: rgb(255, 255, 255), $alpha: .3);
+  
+  &-drag {
+    border-radius: 0 !important;
+    background-color: rgb(255, 255, 255) !important;
+  }
+}
